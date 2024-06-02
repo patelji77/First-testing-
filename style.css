@@ -1,0 +1,11 @@
+li{
+    display:inline-flex;
+    justify-content: center;max-width: 2000px; margin-right: auto;
+    background-color: rgb(70, 169, 240);
+    font-size: medium;
+    border-radius: 30%;
+    }
+ul{
+    text-align: center;
+    
+}
